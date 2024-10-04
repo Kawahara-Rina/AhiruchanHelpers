@@ -1,4 +1,4 @@
-# AhiruchanHelpers
+# AhiruchanHelpers(あひるちゃんへるぱーず！)
 
 <dl>
   <dt>概要</dt>
