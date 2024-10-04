@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Duck
+  - effectLayer
+  - wall
+  - Goal
+  - ducky
+  - water
+  - Duck2
+  - Duck3
+  - Duck4
+  - Duck5
+  - Duck6
+  - IronBall
+  - DangerousItems
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - effectLayer
+  - Water
+  - UI
+  - duck
+  - ball
+  - bath
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
